@@ -1,0 +1,30 @@
+
+.header {background-color: thistle;
+	         font-size : 10em;
+			 font-family: Gabriola;
+			 font-color: darkmagenta;
+			 text-align: center;}
+#head_contact {font-family: Gabriola;
+			 font-color: darkmagenta;
+			 position: absolute;
+             left: 63em;
+             width: 40em;
+             top: 1.7em; }
+.img {height: "100"; width: "100"; 
+	 float: left;  
+     margin: 3px 12px 0px 0px; px;
+	 alt="Иллюстрация"}
+	 
+.h1 {font-size : 35 px;
+	font-family: Gabriola;
+	font-color: darkmagenta;
+	text-align: center;}
+   
+div>p:nth-child(1)	{font-family: Gabriola;
+	font-color: darkmagenta;
+	text-align: left;
+	font-size : 3em;}
+div>p:nth-child(4) {font-family: Book Antiqua;
+	   font-color: black;
+	   font-style: italic;
+	   font-size : 25px }
